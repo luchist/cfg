@@ -1,0 +1,28 @@
+{
+    "update.channel": "none",
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "workbench.colorTheme": "Material Theme Palenight",
+    "workbench.iconTheme": "eq-material-theme-icons",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "editor.minimap.showSlider": "always",
+    "editor.mouseWheelZoom": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderLineHighlight": "all",
+    "editor.renderWhitespace": "all",
+    "window.menuBarVisibility": "toggle",
+
+    // MATERIAL THEME RECOMMENDED SETTINGS
+    // Controls the font family.
+    "editor.fontFamily": "Fira Code",
+    // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+    "editor.lineHeight": 24,
+    // Enables font ligatures
+    "editor.fontLigatures": true,
+    // Controls if file decorations should use badges.
+    "explorer.decorations.badges": false
+}
