@@ -1,0 +1,16 @@
+{
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Palenight.tmTheme",
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "theme": "Material-Theme-Palenight.sublime-theme",
+
+    "font_face": "Fira Code",
+    "font_size": 11,
+
+    "translate_tabs_to_spaces": true,
+    "draw_minimap_border": true,
+    "highlight_line": true,
+    "draw_white_space": "all"
+}
