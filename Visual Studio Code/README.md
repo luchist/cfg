@@ -5,9 +5,10 @@
 
 
 
-# Configuracion de Sublime Text 3
-`Los archivos van en %userprofile%\AppData\Roaming\Sublime Text 3\Packages\User`
+# Configuracion de Visual Studio Code
+En Windows/Linux : `File > Preferences > Settings`
 
+En macOS         : `Code > Preferences > Settings`
 
-
+Shortcut         : `Ctrl + ,`
 
